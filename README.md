@@ -16,5 +16,7 @@ Será usada a API da John Hopkins University, que junta informações confiaveis
 ## Descrição do projeto
 
 Escolhemos a opção acima para criar um dashboard onde será possível visualizar as informações referentes ao número de mortes, número de infectados e número de recuperados, separados por país e região.
+Algo parecido com isso:
+[https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6]
 
 
