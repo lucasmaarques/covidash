@@ -15,6 +15,6 @@ Será usada a API da John Hopkins University, que junta informações confiaveis
 
 ## Descrição do projeto
 
-Escolhemos a opção acima para criar um dashboard onde será possível visualizar as informações referentes ao número de mortes , número de infectados e número de recuperados. 
+Escolhemos a opção acima para criar um dashboard onde será possível visualizar as informações referentes ao número de mortes, número de infectados e número de recuperados. 
 
 
